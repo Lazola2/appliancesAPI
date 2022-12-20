@@ -1,0 +1,124 @@
+{
+    "appliances": [
+        {
+            "id": 6086,
+            "uid": "b82bf82a-4a33-46f8-847e-9a1330a3fc58",
+            "brand": "KitchenAid",
+            "equipment": "Central vacuum cleaner"
+        },
+        {
+            "id": 5780,
+            "uid": "f6152720-700c-4b89-8aee-c8bf305bd142",
+            "brand": "Admiral",
+            "equipment": "Combo washer dryer"
+        },
+        {
+            "id": 6326,
+            "uid": "0998645e-506a-4bb9-bab9-86c08dadc986",
+            "brand": "Sharp",
+            "equipment": "Sewing machine"
+        },
+        {
+            "id": 852,
+            "uid": "ec5029cb-e300-4bf3-a6a8-38d29c75952b",
+            "brand": "Siemens",
+            "equipment": "Attic fan"
+        },
+        {
+            "id": 592,
+            "uid": "d9e00dfc-fefd-4782-ac94-074acfd2615b",
+            "brand": "Siemens",
+            "equipment": "Attic fan"
+        },
+        {
+            "id": 7729,
+            "uid": "a090abc1-8ee4-42b2-a374-503885d5eb93",
+            "brand": "Samsung",
+            "equipment": "Drawer dishwasher"
+        },
+        {
+            "id": 2942,
+            "uid": "a416376f-fd9f-4d8c-af4c-3860c879bffd",
+            "brand": "Blue Star",
+            "equipment": "HVAC"
+        },
+        {
+            "id": 4025,
+            "uid": "75ca371f-232a-4f95-b752-86dc52eb8140",
+            "brand": "Samsung",
+            "equipment": "Window fan"
+        },
+        {
+            "id": 6313,
+            "uid": "392e471f-2c23-4e30-ba20-90ae0432684e",
+            "brand": "Amana",
+            "equipment": "Can opener"
+        },
+        {
+            "id": 4479,
+            "uid": "e4e7fd5b-de5f-4308-ad92-1660f7a58f51",
+            "brand": "Fagor",
+            "equipment": "Blender"
+        },
+        {
+            "id": 7726,
+            "uid": "3cfc43fa-14c4-4e34-91ea-adc48b243720",
+            "brand": "Admiral",
+            "equipment": "Hair iron"
+        },
+        {
+            "id": 2960,
+            "uid": "0429a9a3-bbbe-415d-9037-f798ba2243ef",
+            "brand": "Electrolux",
+            "equipment": "Sewing machine"
+        },
+        {
+            "id": 9104,
+            "uid": "d8f5d6ac-72e4-4d23-9fae-b977c01aa950",
+            "brand": "LG",
+            "equipment": "HVAC"
+        },
+        {
+            "id": 7129,
+            "uid": "4ef4034a-65fe-4dce-8f90-a26689e3aec3",
+            "brand": "Blue Star",
+            "equipment": "Air ioniser"
+        },
+        {
+            "id": 2022,
+            "uid": "0fe85418-5ded-4dbf-9856-defd9c7b5137",
+            "brand": "KitchenAid",
+            "equipment": "Vacuum cleaner"
+        },
+        {
+            "id": 2157,
+            "uid": "067d209f-3ffb-40dd-b799-632ca3c21ac3",
+            "brand": "Whirlpool",
+            "equipment": "Fan heater"
+        },
+        {
+            "id": 3833,
+            "uid": "4b97b99a-170f-49da-8f99-44acbc0d00e2",
+            "brand": "Blue Star",
+            "equipment": "Dishwasher"
+        },
+        {
+            "id": 7867,
+            "uid": "c6a92c75-ebab-4651-a339-a85bfd28160f",
+            "brand": "Franke",
+            "equipment": "Flame supervision device"
+        },
+        {
+            "id": 7109,
+            "uid": "05286b13-d0b6-44b0-a12f-e301217556d4",
+            "brand": "KitchenAid",
+            "equipment": "Evaporative cooler"
+        },
+        {
+            "id": 6143,
+            "uid": "3a380ef2-64ca-4145-94e6-f8a172a956d4",
+            "brand": "Samsung",
+            "equipment": "Space heater"
+        }
+    ]
+}
